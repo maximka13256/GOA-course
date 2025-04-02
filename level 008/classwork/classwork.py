@@ -1,0 +1,13 @@
+Name = "nika"
+naMe = "jan"
+NAME = "data"
+naME = "vano"
+name = "demetre"
+NaMe = "luka"
+name = "giorgi"
+# 6 ცვლადი, იმიტომ რომ ორი ნეიმი წერია პატარა ასოებით და დაიპრინტება მხოლოდ გიორგი
+snake_case = "..."
+my_friend_name = "nika"
+my_friend_surname = "odzelashvili"
+my_favorite_car = "audi"
+my_favorite_phone = "samsung"
